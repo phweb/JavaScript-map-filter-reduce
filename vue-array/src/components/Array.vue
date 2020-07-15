@@ -29,7 +29,9 @@
 
 <p> Vamos descobrir quais clientes são menor de idade com a função <b>filter:</b></p>
 <p>Resultado</p>
+  <div class="result">
 {{menorIdade}}
+  </div>
 
 
 
@@ -90,6 +92,8 @@ li {
 a {
   color: #42b983;
 }
-
+.result {
+  margin-bottom: 150px;
+}
 
 </style>
