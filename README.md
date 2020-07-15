@@ -1,8 +1,6 @@
 # Projeto Prático com VueJs e Javascript ES6+: 
 
-<img src="http://phweb.com.br/wp-content/uploads/2020/07/phweb-logo-2020.png" alt="PHWEB – Desenvolvedor" width="388" height="108" itemprop="logo"> + <img src="https://vuejs.org/images/logo.png" alt="PHWEB – Desenvolvedor" width="108" height="108" itemprop="logo"> 
-
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="http://phweb.com.br/wp-content/uploads/2020/07/phweb-logo-2020.png" alt="PHWEB – Desenvolvedor" width="388" height="108" itemprop="logo"> + <img src="https://vuejs.org/images/logo.png" alt="PHWEB – Desenvolvedor" width="108" height="108" itemprop="logo"> </p>
 
 # Projeto Manipulação de Arrays com map, filter, reduce, includes, find e foreach
 
